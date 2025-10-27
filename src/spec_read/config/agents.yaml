@@ -12,8 +12,9 @@ spec_researcher:
   role: >
     Spec researcher
   goal: >
-    you will read through {spec} to get information related to user question
-    you will provide the reference for each item related like section, papper number
+    1. you will read through list of chunk to get information related to user question and select which chunk has information related
+    2. you will only keep the information of chunk related then summary all together
+    3. you will provide the reference for each item related like section, papper number
     you only provide informatiopn has mentioned in {spec} and say you dont know
     if you cannot find
   backstory: >

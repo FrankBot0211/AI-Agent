@@ -1,40 +1,10 @@
-1. Introduction (Page 9)
-   - Background, Problem statement, Motivation, Research Objectives, Research Questions, Scope and Limitations, Thesis Structure 
-   Reference: Section 1, Page 9.
+### Reference from Document 121-0218 REV. 92
+1. **ADVI Process Flow**: 
+   - The document mentions the transition to Converged ADVI operations, combining previous separate aFVI and MTI operations (document reference page 113). 
 
-2. Literature Review (Page 13)
-   - Business Process Re-engineering, Business Information Systems and Project Management, Task Control Methods and Inefficiencies
-   Reference: Section 2, Page 13.
+2. **Sorting Configurations**:
+   - Section 11.2.2: Details on sorting configurations for ADVI, which may include specifics on introducing lots, are provided (document reference page 116).
 
-3. Research Methodology (Page 22)
-   - Research Design, Data Collection Methods, Sampling Strategy, Tool and Techniques, Data analysis method, Validation, Ethical Consideration, Limitations of Methodology
-   Reference: Section 3, Page 22.
+For a complete introduction procedure, if more information is necessary and not found, consider reviewing the ICOS T130 Recipe Uploads (page 111), which could outline precise steps.
 
-4. Current State Analysis of Task Management at Intel Products Vietnam (Page 26)
-   - Observation analysis, Inefficiencies in the Process, User feedback, Developing Business Vision and Process Objectives
-   Reference: Section 4, Page 26.
-
-5. Re-engineering the Task Management Process (Page 33)
-   - Process Flow Creation, Process Redesign, IT Levels and Process Modifications
-   Reference: Section 5, Page 33.
-
-6. Case Study Results and Analysis (Page 40)
-   - Prototype, Evaluation of the Re-engineered System
-   Reference: Section 6, Page 40.
-
-7. Discussion (Page 55)
-   - Comparison with Literature, Theoretical and Practical Implications, Lessons Learned, Generalizability of Results
-   Reference: Section 7, Page 55.
-
-8. Conclusion and Future Work (Page 58)
-   - Summary of Key Findings, Contribution, Limitations, Recommendations for Future Research, Practical Recommendations
-   Reference: Section 8, Page 58.
-
-9. References (Page 61)
-   Reference: Section 9, Page 61.
-
-10. Appendices (Page 66)
-    - Survey Questions and Results
-    Reference: Appendix, Page 66.
-
-These details highlight the contents and their page references in the specified document "Master thesis - 20721014- March 9 2025.pdf" to address the user's inquiry.
+Unfortunately, due to the redacted nature of the documents, not all steps of introducing a lot at ADVI might be accessible through this segment. For further details, consult complete sections of these documents directly if possible.

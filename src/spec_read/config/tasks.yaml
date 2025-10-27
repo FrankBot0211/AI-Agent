@@ -5,13 +5,12 @@ admin_task:
     A concise of question that user ask
   agent: admin
   output_file: output/question.md
-  
+
 research_task:
   description: >
-    Conduct a thorough research throughout {spec} when receive question from user
-    Make sure you find any interesting and relevant information given
-    and only provide information that has mention in {spec} say you don't know
-    if you cannot find information in {spec}
+    Use the knowledge sources available to you to conduct a thorough research throughout all document chunks
+    when receiving the question from the user. Search carefully in the PDFs for relevant information related
+    to the topic. If information cannot be found, respond honestly that it was not found in the documents.
   expected_output: >
     A list of the most relevant information about question from user you find in {spec}
     and source reference for each information you found
